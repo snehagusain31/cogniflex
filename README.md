@@ -1,1 +1,1 @@
-Cogniflex is a modern and responsive AI-driven landing page built using React, Tailwind CSS, and Framer Motion. Inspired by the *Brainwave* project, this web application showcases animated components, parallax effects, smooth transitions, and a clean, futuristic UI.
+Cogniflex is a modern and responsive AI-driven landing page built using React, Tailwind CSS, and Framer Motion. This web application showcases animated components, parallax effects, smooth transitions, and a clean, futuristic UI.
